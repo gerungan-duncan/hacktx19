@@ -3,3 +3,5 @@ Mission Statement
 
 ## Usage
 Intro, Quiz, Suggestions, Networking
+
+![Logo](footprint.png)
