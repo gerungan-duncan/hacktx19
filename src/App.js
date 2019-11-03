@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Take the Quiz
+          Take the Quiz!
         </a>
       </header>
     </div>
