@@ -1,1 +1,1 @@
-print("Helloos Worlds")
+print("Hellos Worlds")
