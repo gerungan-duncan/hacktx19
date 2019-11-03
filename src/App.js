@@ -50,7 +50,7 @@ function Home(){
         <p>
           Carbon Footprint Diary
         </p>
-        <Link to="/users">Take the Quiz!</Link>
+        <Link to="/users">Take the Quiz!!</Link>
       </header>
     </div>
   );
